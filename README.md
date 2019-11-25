@@ -8,3 +8,4 @@ This docker image packs:
 - kubectl (latest)
 - maven (3.6.2)
 - java (11)
+- Docker (stable)
